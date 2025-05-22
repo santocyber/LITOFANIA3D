@@ -1,4 +1,4 @@
-🎨 Lithophane3D Generator
+##🎨 Lithophane3D Generator
 Transforme imagens em litofanias 3D com JavaScript e Python
 
 JavaScript
