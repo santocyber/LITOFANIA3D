@@ -1,5 +1,23 @@
-# LITOFANIA3D
-LITOFANIA3D
+🎨 Lithophane3D Generator
+Transforme imagens em litofanias 3D com JavaScript e Python
+
+JavaScript
+Python
+License
+
+Demo Lithophane (Substitua por um GIF/vídeo real do projeto)
+
+🌟 Visão Geral
+Este repositório contém ferramentas em JavaScript e Python para gerar modelos 3D de litofanias a partir de imagens 2D. Ideal para entusiastas de impressão 3D, artistas digitais ou quem deseja criar lembranças personalizadas com tecnologia!
+
+Funcionalidades Principais
+Conversão automática de imagens (JPG/PNG) para modelos 3D (STL/OBJ).
+
+Suporte cruzado: Use o script Python para processamento de imagem ou o JavaScript para visualização web interativa.
+
+Parâmetros customizáveis: Espessura, resolução, bordas e base ajustáveis.
+
+Pré-visualização 3D integrada (Three.js).
 
 
 Litofania (ou lithophane, em inglês) é uma técnica artística que cria imagens em relevo em materiais translúcidos, como porcelana, cerâmica ou plástico, que se tornam visíveis quando iluminadas por trás. A imagem é formada pela variação da espessura do material: áreas mais finas permitem a passagem de mais luz (aparecendo claras), enquanto áreas mais espessas bloqueiam a luz (aparecendo escuras).
