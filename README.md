@@ -1,11 +1,6 @@
 # 🎨 Lithophane3D Generator
 Transforme imagens em litofanias 3D com JavaScript e Python
 
-JavaScript
-Python
-License
-
-Demo Lithophane (Substitua por um GIF/vídeo real do projeto)
 
 🌟 Visão Geral
 Este repositório contém ferramentas em JavaScript e Python para gerar modelos 3D de litofanias a partir de imagens 2D. Ideal para entusiastas de impressão 3D, artistas digitais ou quem deseja criar lembranças personalizadas com tecnologia!
